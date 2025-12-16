@@ -22,7 +22,7 @@ async def main() -> None:
     logger.info("Scheduler started")
 
     while True:
-        await asyncio.sleep(3600)
+        pass
 
 
 if __name__ == "__main__": 
