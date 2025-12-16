@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+.pytest_cache
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+autoria_venv/
+autoria_venv
+.autoria_venv
+.autoria_venv/
+
+# Secrets
+.env
